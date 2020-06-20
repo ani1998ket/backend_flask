@@ -1,0 +1,4 @@
+include miBlog/schema.sql
+graft miBlog/static
+graft miBlog/templates
+global-exclude *.pyc
